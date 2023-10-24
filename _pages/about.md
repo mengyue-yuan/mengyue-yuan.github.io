@@ -8,17 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-I am an MPhil student in Geography Information Science at Wuhan University supervised by [Prof.Peng Yue](http://geos.whu.edu.cn/peng.html).
-My research interest spans the following field:
+I am an MPhil student in Geography Information Science at Wuhan University supervised by [Prof.Peng Yue](http://geos.whu.edu.cn/peng.html). My current work is concentrated on extraction, analysis and visualization of mobility patterns from large collections of trajectories.
+
+My research interest includes but is not limited to
+
 - Geospatial data mining
 - Human mobility
 - Public health
 - Transportation geography
 
 
-What's New
+Recent News and Updates
 ------
-October 2023. Check our new publication in ***International Journal of Geographical Information Science***: **Generating lane-level road networks from high-precision trajectory data with lane-changing behavior analysis**  by Mengyue Yuan, Peng Yue, Can Yang, Jian Li, Yan Kai, Chuanwei Cai and Chongshan Wan.
+October 2023. Check our new publication in *International Journal of Geographical Information Science*: **Generating lane-level road networks from high-precision trajectory data with lane-changing behavior analysis**  by Mengyue Yuan, Peng Yue, Can Yang, Jian Li, Yan Kai, Chuanwei Cai and Chongshan Wan.
 
 Education
 ------
