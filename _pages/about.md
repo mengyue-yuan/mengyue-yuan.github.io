@@ -1,4 +1,4 @@
-![image](https://github.com/mengyue-yuan/mengyue-yuan.github.io/assets/33271377/b4cae64b-ce3b-4bef-a672-80a0d2bc9a21)---
+---
 permalink: /
 title: "Hi, this is Mengyue Yuan. Welcome to my website!"
 excerpt: "About me"
