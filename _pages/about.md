@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi, this is Mengyue Yuan. Welcome to my website!"
+title: "Hi, this is Mengyue Yuan."
 excerpt: "About me"
 author_profile: true
 redirect_from: 
