@@ -23,6 +23,7 @@ October 2023. Check our new publication in ***International Journal of Geographi
 Education
 ------
 Sept 2021 - Jun 2024 (expected) M.S. in Cartography and Geography Information System. Wuhan University, China
+
 Sept 2017 - Jun 2021, B.E. in Geospatial Information Engineering. China University of Geoscience, Wuhan, China
 
 Create content & metadata
