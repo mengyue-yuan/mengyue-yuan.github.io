@@ -9,16 +9,21 @@ redirect_from:
 ---
 
 I am an MPhil student in Geography Information Science at Wuhan University supervised by [Prof.Peng Yue](http://geos.whu.edu.cn/peng.html).
-My research interest spans the following field: //
+My research interest spans the following field:
 - Geospatial data mining
 - Human mobility
 - Public health
-- Transportation geography //
+- Transportation geography
 
 
-Site-wide configuration
+What's New
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+October 2023. Check our new publication in ***International Journal of Geographical Information Science***: **Generating lane-level road networks from high-precision trajectory data with lane-changing behavior analysis**  by Mengyue Yuan, Peng Yue, Can Yang, Jian Li, Yan Kai, Chuanwei Cai and Chongshan Wan.
+
+Education
+------
+Sept 2021 - Jun 2024 (expected) M.S. in Cartography and Geography Information System. Wuhan University, China
+Sept 2017 - Jun 2021, B.E. in Geospatial Information Engineering. China University of Geoscience, Wuhan, China
 
 Create content & metadata
 ------
