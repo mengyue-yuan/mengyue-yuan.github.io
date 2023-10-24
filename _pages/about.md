@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I am currently an MPhil student at the Department of Geography Information Engineering, Wuhan University supervised by [Prof.Peng Yue](http://geos.whu.edu.cn/peng.html). 
 I am currently an MPhil student in the Department of Geography Information Engineering at Wuhan University, with my research being supervised by [Prof.Peng Yue](http://geos.whu.edu.cn/peng.html). My current work is concentrated on extraction, analysis and visualization of mobility patterns from large collections of trajectories.
 
 My research interest includes but is not limited to
@@ -20,7 +19,7 @@ My research interest includes but is not limited to
 
 More Details in my [Curriculum Vitae](http://mengyue-yuan.github.io/files/Curriculum-Vitae_Mengyue-Yuan.pdf).
 
-Feel free to get in touch with me at mengyueyuan@whu.edu.cn
+Feel free to get in touch with me at: [mengyueyuan@whu.edu.cn](mailto:mengyueyuan@whu.edu.cn)
 
 Recent News and Updates
 ------
