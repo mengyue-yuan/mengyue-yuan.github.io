@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a master student in Geography Information Science at Wuhan University supervised by [Prof.Peng Yue](http://geos.whu.edu.cn/peng.html).
+I am an MPhil student in Geography Information Science at Wuhan University supervised by [Prof.Peng Yue](http://geos.whu.edu.cn/peng.html).
 My research interest spans the following field: //
 - Geospatial data mining
 - Human mobility
