@@ -20,11 +20,11 @@ My research interest includes but is not limited to
 
 Recent News and Updates
 ------
-October 2023. Check our new publication in *International Journal of Geographical Information Science*: **Generating lane-level road networks from high-precision trajectory data with lane-changing behavior analysis**  by Mengyue Yuan, Peng Yue, Can Yang, Jian Li, Yan Kai, Chuanwei Cai and Chongshan Wan.
+October 2023. Check our new publication in [*International Journal of Geographical Information Science*](https://www.tandfonline.com/journals/tgis20): **Generating lane-level road networks from high-precision trajectory data with lane-changing behavior analysis**  by Mengyue Yuan, Peng Yue, Can Yang, Jian Li, Yan Kai, Chuanwei Cai and Chongshan Wan.
 
 Education
 ------
-Sept 2021 - Jun 2024 (expected) M.S. in Cartography and Geography Information System. Wuhan University, China
+Sept 2021 - Jun 2024 (expected), M.S. in Cartography and Geography Information System. Wuhan University, China
 
 Sept 2017 - Jun 2021, B.E. in Geospatial Information Engineering. China University of Geoscience, Wuhan, China
 
