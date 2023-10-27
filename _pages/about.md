@@ -17,9 +17,9 @@ My research interest includes but is not limited to
 - Human mobility
 - Public health
 
-More details in my [Curriculum Vitae](http://mengyue-yuan.github.io/files/Curriculum-Vitae_Mengyue-Yuan.pdf).
+For additional information, check out my [Curriculum Vitae](http://mengyue-yuan.github.io/files/Curriculum-Vitae_Mengyue-Yuan.pdf).
 
-Feel free to get in touch with me at [mengyueyuan@whu.edu.cn](mailto:mengyueyuan@whu.edu.cn)
+Feel free to contact me anytime at [mengyueyuan@whu.edu.cn](mailto:mengyueyuan@whu.edu.cn)！
 
 Recent News and Updates
 ------
