@@ -35,8 +35,7 @@ Previous Research Explorations
 ------
 **Location-Based Social Media Data Analysis**
 
-My previous research focus on extraction, analysis and visualization of human acticity patterns from location-based social media data, Sina Weibo Check-in data.
-Here are the two study cases.
+My previous research focus on extraction, analysis and visualization of human acticity patterns from location-based social media data. Here are the two study cases.
 
 **Exploring the Relation between Human activities and COVID-19 Morbidity using Location-Based Social Media Data**
 
