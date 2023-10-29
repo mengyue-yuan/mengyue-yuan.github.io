@@ -1,6 +1,6 @@
 ---
 title: ""
-excerpt: "Wuhan University, 2021<br/><img src='/images/East_lake.JPG'>"
+excerpt: "Wuhan University, 2021<br/><img src='/images/East_lake.JPG' width='800'>"
 collection: portfolio 
 ---
 
