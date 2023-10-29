@@ -35,14 +35,16 @@ Previous Research Explorations
 ------
 **Location-Based Social Media Data Analysis**
 
-My previous research focus on extraction, analysis and visualization of human acticity patterns from large location-based social media data, Sina Weibo Check-in data.
+My previous research focus on extraction, analysis and visualization of human acticity patterns from location-based social media data, Sina Weibo Check-in data.
 Here are the two study cases.
 
 **Exploring the Relation between Human activities and COVID-19 Morbidity using Location-Based Social Media Data**
+
 This study investgates COVID-19 morbidity and transmission from December 2019 to January 2020 in Wuhan. Using Sina Weibo check-in data, we characterize Wuhan citizens’ activity patterns and the relationship between human mobility and the spread of COVID-19 in the early pandemic stage. This study reveals the relevant factors influencing COVID-19 transmission within the city and the mechanisms of transmission impact.
 
 Yuan M, Liu T, Yang C. Exploring the Relationship among Human Activities, COVID-19 Morbidity, and At-Risk Areas Using Location-Based Social Media Data: Knowledge about the Early Pandemic Stage in Wuhan. International Journal of Environmental Research and Public Health. 2022; 19(11):6523.
 
 **When, where and why do social media users makeup? Interpretation from Sina Weibo check-ins and selfies.**
+
 In this study, I developed a deep learning-based model for detecting facial retouching in selfie images on the social media platform, Sina Weibo. This work trying to understand and explain social media users' makeup behavior from the perspective of geography and sociology, including its spatial and temporal patterns and possible motivations.
 
