@@ -2,24 +2,24 @@
 permalink: /
 title: "Hi, this is Mengyue Yuan."
 excerpt: "About me"
-author_profile: true
+author_profile: trueg
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am currently an MPhil student in the Department of Geography Information Engineering at Wuhan University, supervised by [Prof. Peng Yue](http://geos.whu.edu.cn/peng.html). My current work is concentrated on map construction and lane-level road network generation from large collections of trajectories. I am also passionate about mining human activity patterns from geospatial data, such as location-based social media data. 
-
-My research interest includes but is not limited to
+I am currently an MPhil student in the Department of Geography Information Engineering, School of Remote Sensing and Information Engineering, at Wuhan University, supervised by [Prof. Peng Yue](http://geos.whu.edu.cn/peng.html). My research interest includes but is not limited to
 
 - Geospatial data mining
 - Transportation geography
 - Public health
 - Human activity
 
-For additional information, check out my [Curriculum Vitae](http://mengyue-yuan.github.io/files/Curriculum-Vitae_Mengyue-Yuan.pdf).
+My current work is concentrated on map construction and lane-level road network generation from large collections of trajectories. I am also passionate about mining and analyzing human activity patterns from geospatial data, such as location-based social media data. 
 
-Feel free to contact me anytime at [mengyueyuan@whu.edu.cn](mailto:mengyueyuan@whu.edu.cn)！
+Before the M.S. study, I obtained bachelor degree in Geospatial Information Engineering from China University of Geoscience in 2021. For additional information, check out my [Curriculum Vitae](http://mengyue-yuan.github.io/files/Curriculum-Vitae_Mengyue-Yuan.pdf).
+
+Feel free to contact me anytime at [mengyueyuan@whu.edu.cn](mailto:mengyueyuan@whu.edu.cn).
 
 What's new!
 ------
