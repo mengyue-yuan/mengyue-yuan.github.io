@@ -25,4 +25,11 @@ Research experience
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
-  
+
+Awards/Honors
+======
+* First Class Scholarship, Wuhan University.  
+* Academician Scholarship, China University of Geoscience, Wuhan.
+* Outstanding Student Leader Prize, China University of Geoscience, Wuhan.
+* First Prize of the 8th National Student GIS Application Skill Contest.
+* Second Prize in the National Mathematical Contest in Modeling.
