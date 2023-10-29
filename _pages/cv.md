@@ -16,12 +16,12 @@ Education
 
 Research experience
 ======
-* Wuhan University, HPECIG Lab | Supervisor: Prof. Peng Yue
+* Wuhan University, HPECIG Lab, Supervisor: Prof. Peng Yue
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
 
-* China University of Geoscience, GIRSA Lab | Supervisor: Asso. Prof. Chao Yang
+* China University of Geoscience, GIRSA Lab, Supervisor: Asso. Prof. Chao Yang
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
