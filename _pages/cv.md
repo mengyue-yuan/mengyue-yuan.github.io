@@ -16,20 +16,9 @@ Education
 
 Publication
 ======
-* Yuan, M., Yue, P., Yang, C., Li, J., Yan, K., Cai, C. and Wan, C.: Generating lane-level road networks from high-precision trajectory data with lane-changing behavior analysis. International Journal of Geographical Information Science, 2023.
-* Yuan, M., Liu, T., and Yang, C.: Exploring the Relationship among Human Activities, COVID-19 Morbidity, and At-Risk Areas using Location-Based Social Media Data: Knowledge about the Early Pandemic Stage in Wuhan. International Journal of Environmental Research and Public Health, 2022.
+* Mengyue Yuan, Peng Yue, Can Yang, Jian Li, Kai Yan, Chuanwei Cai, and Chongshan Wan. 2023. "Generating lane-level road networks from high-precision trajectory data with lane-changing behavior analysis" International Journal of Geographical Information Science.
 
-Research experience
-======
-* Wuhan University, HPECIG Lab, Supervisor: Prof. Peng Yue
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* China University of Geoscience, GIRSA Lab, Supervisor: Asso. Prof. Chao Yang
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Mengyue Yuan, Tong Liu, and Chao Yang. 2022. "Exploring the Relationship among Human Activities, COVID-19 Morbidity, and At-Risk Areas Using Location-Based Social Media Data: Knowledge about the Early Pandemic Stage in Wuhan" International Journal of Environmental Research and Public Health 19, no. 11: 6523.
 
 Awards/Honors
 ======
@@ -38,3 +27,11 @@ Awards/Honors
 * Outstanding Student Leader Prize, China University of Geoscience, Wuhan.
 * First Prize of the 8th National Student GIS Application Skill Contest.
 * Second Prize in the National Mathematical Contest in Modeling.
+
+Research experience
+======
+* Wuhan University, HPECIG Lab, Supervisor: Prof. Peng Yue
+  * 
+
+* China University of Geoscience, GIRSA Lab, Supervisor: Asso. Prof. Chao Yang
+  * 
