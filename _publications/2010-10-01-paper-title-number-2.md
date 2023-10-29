@@ -2,14 +2,13 @@
 title: "Paper Title Number 2"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
+excerpt: ''
+date: 2022-05-22
+venue: 'International Journal of Environmental Research and Public Health'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+citation: 'Yuan M, Liu T, Yang C. Exploring the Relationship among Human Activities, COVID-19 Morbidity, and At-Risk Areas Using Location-Based Social Media Data: Knowledge about the Early Pandemic Stage in Wuhan. International Journal of Environmental Research and Public Health. 2022; 19(11):6523. https://doi.org/10.3390/ijerph19116523'
 ---
-This paper is about the number 2. The number 3 is left for future work.
 
 [Download paper here](http://academicpages.github.io/files/paper2.pdf)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+Recommended citation: Yuan M, Liu T, Yang C. Exploring the Relationship among Human Activities, COVID-19 Morbidity, and At-Risk Areas Using Location-Based Social Media Data: Knowledge about the Early Pandemic Stage in Wuhan. International Journal of Environmental Research and Public Health. 2022; 19(11):6523. https://doi.org/10.3390/ijerph19116523.
