@@ -27,11 +27,3 @@ Awards/Honors
 * Outstanding Student Leader Prize, China University of Geoscience, Wuhan.
 * First Prize of the 8th National Student GIS Application Skill Contest.
 * Second Prize in the National Mathematical Contest in Modeling.
-
-Research experience
-======
-* Wuhan University, HPECIG Lab, Supervisor: Prof. Peng Yue
-  * 
-
-* China University of Geoscience, GIRSA Lab, Supervisor: Asso. Prof. Chao Yang
-  * 
