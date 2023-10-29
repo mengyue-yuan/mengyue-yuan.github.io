@@ -8,14 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am currently an MPhil student in the Department of Geography Information Engineering at Wuhan University, supervised by [Prof.Peng Yue](http://geos.whu.edu.cn/peng.html). My current work is concentrated on extraction, analysis and visualization of mobility patterns from large collections of trajectories.
-
-My research interest includes but is not limited to
+I am currently an MPhil student in the Department of Geography Information Engineering at Wuhan University, supervised by [Prof. Peng Yue](http://geos.whu.edu.cn/peng.html). My current work is concentrated on map construction and lane-level road network generation from large collections of trajectories. I am also passionate about mining human activity patterns from geospatial data, such as location-based social media data. My research interest includes but is not limited to
 
 - Geospatial data mining
 - Transportation geography
-- Human mobility
 - Public health
+- Human activity
 
 For additional information, check out my [Curriculum Vitae](http://mengyue-yuan.github.io/files/Curriculum-Vitae_Mengyue-Yuan.pdf).
 
