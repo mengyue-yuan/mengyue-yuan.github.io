@@ -1,4 +1,4 @@
-![image](https://github.com/mengyue-yuan/mengyue-yuan.github.io/assets/33271377/3d2287dd-be68-4fee-a655-630f59bfd294)---
+---
 title: "Paper Title Number 3"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
