@@ -19,7 +19,7 @@ For additional information, check out my [Curriculum Vitae](http://mengyue-yuan.
 
 Feel free to contact me anytime at [mengyueyuan@whu.edu.cn](mailto:mengyueyuan@whu.edu.cn)！
 
-Recent News
+What's new!
 ------
 October 2023. Check our new publication in [*International Journal of Geographical Information Science*](https://www.tandfonline.com/journals/tgis20): **Generating lane-level road networks from high-precision trajectory data with lane-changing behavior analysis**  by Mengyue Yuan, Peng Yue, Can Yang, Jian Li, Yan Kai, Chuanwei Cai and Chongshan Wan.
 
