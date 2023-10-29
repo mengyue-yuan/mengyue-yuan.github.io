@@ -14,6 +14,11 @@ Education
 * B.E. in Geospatial Information Engineering, China University of Geoscience, Wuhan, 2017 - 2021
 * M.S. in  Cartography and Geography Information System, Wuhan University, 2021 - Present
 
+Publication
+======
+* Yuan, M., Yue, P., Yang, C., Li, J., Yan, K., Cai, C. and Wan, C.: Generating lane-level road networks from high-precision trajectory data with lane-changing behavior analysis. International Journal of Geographical Information Science, 2023.
+* Yuan, M., Liu, T., and Yang, C.: Exploring the Relationship among Human Activities, COVID-19 Morbidity, and At-Risk Areas using Location-Based Social Media Data: Knowledge about the Early Pandemic Stage in Wuhan. International Journal of Environmental Research and Public Health, 2022.
+
 Research experience
 ======
 * Wuhan University, HPECIG Lab, Supervisor: Prof. Peng Yue
