@@ -17,7 +17,7 @@ I am currently an MPhil student in the Department of Geography Information Engin
 
 My current work is concentrated on map construction and lane-level road network generation from large collections of trajectories. I am also passionate about mining and analyzing human activity patterns from geospatial data, such as location-based social media data. 
 
-Before the M.S. study, I obtained Bachelor's degree in Geospatial Information Engineering from China University of Geoscience in 2021. For additional information, check out my [Curriculum Vitae](http://mengyue-yuan.github.io/files/Curriculum-Vitae_Mengyue-Yuan.pdf).
+For additional information, check out my [Curriculum Vitae](http://mengyue-yuan.github.io/files/Curriculum-Vitae_Mengyue-Yuan.pdf).
 
 Feel free to contact me anytime at [mengyueyuan@whu.edu.cn](mailto:mengyueyuan@whu.edu.cn).
 
