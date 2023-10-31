@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Publications
+Journal articles
 ------
 - **Mengyue Yuan**, Peng Yue, Can Yang, Jian Li, Kai Yan, Chuanwei Cai, and Chongshan Wan. 2023. “[Generating lane-level road networks from high-precision trajectory data with lane-changing behavior analysis](https://www.tandfonline.com/journals/tgis20)” *International Journal of Geographical Information Science*.
 
