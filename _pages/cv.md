@@ -22,8 +22,9 @@ Publication
 
 Awards/Honors
 ======
-* First Class Scholarship, Wuhan University.  
+* First Class Scholarship(top 10%), Wuhan University.  
 * Academician Scholarship, China University of Geoscience, Wuhan.
-* Outstanding Student Leader Prize, China University of Geoscience, Wuhan.
+* Awards of Excellent Student, China University of Geoscience, Wuhan.
+* Awards of Outstanding Student Leader, China University of Geoscience, Wuhan.
 * First Prize of the National Student GIS Application Skill Contest.
 * Second Prize of the National Mathematical Contest in Modeling.
