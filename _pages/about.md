@@ -39,7 +39,7 @@ Previous Research Explorations
 
 My previous research focus on extraction, analysis and visualization of human acticity patterns from location-based social media data. Here are the two study cases.
 
-* **Exploring the Relation between Human activities and COVID-19 Morbidity using Location-Based Social Media Data**
+* **Exploring the Relationship between Human activities and COVID-19 Morbidity using Location-Based Social Media Data**
 
   This study investgates COVID-19 morbidity and transmission in Wuhan from December 2019 to January 2020. Based on Sina Weibo check-in data, we characterize human activity patterns and reveal how the human relevant factors influencing COVID-19 transmission in the early pandemic stage.
 
