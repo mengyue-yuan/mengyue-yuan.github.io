@@ -42,11 +42,13 @@ My previous research focus on extraction, analysis and visualization of human ac
 * **Exploring the Relationship between Human activities and COVID-19 Morbidity using Location-Based Social Media Data**
 
   This study investigated COVID-19 morbidity and transmission in Wuhan from December 2019 to January 2020. Based on Sina Weibo check-in data, we characterized human activity patterns and revealed how the human relevant factors influenced COVID-19 transmission in Wuhan City during the early pandemic stage.
+  [More information here](http://example2.com)
   
-[More information here](http://example2.com)
+
 
 * **When, where and why social media users makeup? Interpretation from Sina Weibo check-ins and selfies.**
 
   In this study, I developed a deep learning-based model for detecting facial retouching in selfie images on the social media platform, Sina Weibo. This study tried to understand and explain social media users' makeup behavior from the perspective of geography and sociology, including its spatial-temporal patterns and possible motivations.
+  [More information here](http://example2.com)
   
-[More information here](http://example2.com)
+
