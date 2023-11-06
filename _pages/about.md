@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently an MPhil student in the Department of Geography Information Engineering, School of Remote Sensing and Information Engineering, at Wuhan University, supervised by [Prof. Peng Yue](http://geos.whu.edu.cn/peng.html). My research interest includes but is not limited to
+I am currently an M.S. student in the Department of Geography Information Engineering, School of Remote Sensing and Information Engineering, at Wuhan University, supervised by [Prof. Peng Yue](http://geos.whu.edu.cn/peng.html). My research interest includes but is not limited to
 
 - Geospatial data mining
 - Transportation geography
