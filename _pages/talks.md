@@ -13,7 +13,8 @@ Generating lane-level road networks from high-precision trajectory data
 
 ![data](/images/1_data.png)
 
-<img src="/images/1_data.png" alt="Image" style="height:200px;">
+<img src="/images/1_data.png" alt="Image" style="height:400px;">
+<img src="/images/1_workflow.png" alt="Image" style="height:400px;">
 
 
 Journal articles
