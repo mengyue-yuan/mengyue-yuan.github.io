@@ -32,3 +32,7 @@ This study investigated COVID-19 morbidity and human activity patterns in Wuhan 
 
 When, where and why social media users makeup? Interpretation from Sina Weibo check-ins and selfies.
 ------
+
+<img src="/images/Makeup_detect.png" alt="Image" style="width:600px;">
+
+
