@@ -29,6 +29,8 @@ This study investigated COVID-19 morbidity and human activity patterns in Wuhan 
 - **Mengyue Yuan**, Tong Liu, and Chao Yang. (2022). [Exploring the Relationship among Human Activities, COVID-19 Morbidity, and At-Risk Areas Using Location-Based Social Media Data: Knowledge about the Early Pandemic Stage in Wuhan](https://www.mdpi.com/1660-4601/19/11/6523). *International Journal of Environmental Research and Public Health* 19, no. 11: 6523.
 
 
+------
+
 
 When, where and why social media users makeup? Interpretation from Sina Weibo check-ins and selfies.
 ------
