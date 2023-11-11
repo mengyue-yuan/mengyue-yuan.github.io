@@ -48,7 +48,7 @@ My previous research focus on extraction, analysis and visualization of human ac
 
 * **When, where and why social media users makeup? Interpretation from Sina Weibo check-ins and selfies.**
 
-  In this study, I developed a deep learning-based model for detecting facial retouching in selfie images on the social media platform, Sina Weibo. This study tried to understand and explain social media users' makeup behavior from the perspective of geography and sociology, including its spatial-temporal patterns and possible motivations.
+  In this study, I developed a deep learning-based model for detecting facial makeup status in selfie images on the social media platform, Sina Weibo. This study tried to understand and explain social media users' makeup behavior from the perspective of geography and sociology, including its spatial-temporal patterns and possible motivations.
   [More information here](https://mengyue-yuan.github.io/talks/)
   
 
