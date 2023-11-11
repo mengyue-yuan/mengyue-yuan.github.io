@@ -41,7 +41,7 @@ My previous research focus on extraction, analysis and visualization of human ac
 
 * **Exploring the Relationship between Human activities and COVID-19 Morbidity using Location-Based Social Media Data**
 
-  This study investigated COVID-19 morbidity and transmission in Wuhan from December 2019 to January 2020. Based on Sina Weibo check-in data, we characterized human activity patterns and revealed how the human relevant factors influenced COVID-19 transmission in Wuhan City during the early pandemic stage.
+  This study investigated COVID-19 morbidity and human activity patterns in Wuhan from December 2019 to January 2020. Based on Sina Weibo check-in data, we characterized human activity factors and revealed how the human relevant factors influenced COVID-19 transmission in Wuhan City during the early pandemic stage.
   [More information here](http://example2.com)
   
 
