@@ -32,6 +32,7 @@ This study investigated COVID-19 morbidity and human activity patterns in Wuhan 
 
 When, where and why social media users makeup? Interpretation from Sina Weibo check-ins and selfies.
 ------
+In this study, I developed a deep learning-based model for detecting facial retouching in selfie images on the social media platform, Sina Weibo. This study tried to understand and explain social media users' makeup behavior from the perspective of geography and sociology, including its spatial-temporal patterns and possible motivations.
 
 <img src="/images/Makeup_detect.png" alt="Image" style="width:600px;">
 
