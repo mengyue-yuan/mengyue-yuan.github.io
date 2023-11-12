@@ -29,3 +29,6 @@ Awards/Honors
 * First Prize of the National Student GIS Application Skill Contest.
 * Second Prize of the National Mathematical Contest in Modeling.
 * Honorable Mention in the International Mathematical Contest in Modeling.
+
+----------
+Download my [Curriculum Vitae](http://mengyue-yuan.github.io/files/Curriculum-Vitae_Mengyue-Yuan.pdf).
