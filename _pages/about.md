@@ -2,7 +2,7 @@
 permalink: /
 title: "Hi, this is Mengyue Yuan."
 excerpt: "About me"
-author_profile: trueg
+author_profile: true
 redirect_from: 
   - /about/
   - /about.html
@@ -15,7 +15,7 @@ I am currently an M.S. student in the Department of Geography Information Engine
 - Public health
 - Human activity
 
-My current work is concentrated on map construction and lane-level road network generation from large collections of trajectories. I am also passionate about mining and analyzing human activity patterns from geospatial data, such as location-based social media data. 
+My current work is concentrated on trajectory analysis and lane-level road network generation from large collections of vehicle-based trajectories. I am also passionate about mining and analyzing human activity patterns from location-based social media data. 
 
 For additional information, check out my [Curriculum Vitae](http://mengyue-yuan.github.io/files/Curriculum-Vitae_Mengyue-Yuan.pdf).
 
