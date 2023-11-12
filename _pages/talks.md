@@ -26,7 +26,7 @@ This study investigated COVID-19 morbidity and human activity patterns in Wuhan 
 
 <img src="/images/2_Intensity.png" alt="Image" style="width:1000px;">
 
-<img src="/images/2_spatial_analysis.png" alt="Image" style="width:600px;">
+<img src="/images/2_spatial_analysis.png" alt="Image" style="width:700px;">
 
 <img src="/images/Interaction.png" alt="Image" style="width:1000px;">
 
