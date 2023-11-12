@@ -12,8 +12,8 @@ I am currently an M.S. student in the Department of Geography Information Engine
 
 - Geospatial data mining
 - Transportation geography
+- Social sensing
 - Public health
-- Human activity
 
 My current work is concentrated on trajectory analysis and lane-level road network generation from large collections of vehicle-based trajectories. I am also passionate about mining and analyzing human activity patterns from location-based social media data. 
 
