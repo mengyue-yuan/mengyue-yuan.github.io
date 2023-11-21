@@ -15,7 +15,7 @@ This industry-driven research project, collaborated with Changan Automobile Comp
 <img src="/images/1_data.png" alt="Image" style="width:600px;">
 <img src="/images/1_workflow.png" alt="Image" style="width:600px;">
 
-- **Mengyue Yuan**, Peng Yue, Can Yang, Jian Li, Kai Yan, Chuanwei Cai, and Chongshan Wan. (2023). [Generating lane-level road networks from high-precision trajectory data with lane-changing behavior analysis](https://www.tandfonline.com/journals/tgis20). *International Journal of Geographical Information Science*.
+- **Mengyue Yuan**, Peng Yue, Can Yang, Jian Li, Kai Yan, Chuanwei Cai, and Chongshan Wan. (2023). [Generating lane-level road networks from high-precision trajectory data with lane-changing behavior analysis](https://www.tandfonline.com/doi/full/10.1080/13658816.2023.2279977). *International Journal of Geographical Information Science*.
 
 
 ------
@@ -38,7 +38,7 @@ This study investigated COVID-19 morbidity and human activity patterns in Wuhan 
 
 When, where and why social media users makeup? Interpretation from Sina Weibo check-ins and selfies.
 ------
-In this study, I developed a deep learning-based model for detecting facial makeup status in selfie images on the social media platform, Sina Weibo. This study tried to understand and explain social media users' makeup behavior from the perspective of geography and sociology, including its spatial-temporal patterns and possible motivations.
+In this study, I developed a deep-learning model to detect facial makeup status in selfie images on the social media platform, Sina Weibo. This study tried to understand and explain social media users' makeup behavior from the perspective of geography and sociology, including its spatial-temporal patterns and possible motivations.
 
 <img src="/images/Makeup_detect.png" alt="Image" style="width:600px;">
 
