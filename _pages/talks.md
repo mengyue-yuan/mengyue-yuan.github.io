@@ -10,7 +10,7 @@ Generating lane-level road networks from high-precision trajectory data
 ------
 We develop a lane-level road network generation method using high-precision trajectory data. The method adopts a divide-and-conquer strategy for complex road network extraction, and effectively addresses the challenge posed by lane structure changes and interference of lane-changing behavior. 
 
-This industry-driven research project, conducted in collaboration with Changan Automobile Company, has been successfully integrated into Changan Automobile's crowdsourced mapping application.
+This industry-driven research project, collaborated with Changan Automobile Company, has been integrated into Changan Automobile's crowdsourced mapping application.
 
 <img src="/images/1_data.png" alt="Image" style="width:600px;">
 <img src="/images/1_workflow.png" alt="Image" style="width:600px;">
