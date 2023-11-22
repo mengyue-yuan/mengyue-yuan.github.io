@@ -17,7 +17,7 @@ I am currently an M.S. student in the Department of Geography Information Engine
 
 My current work is concentrated on trajectory analysis and lane-level road network generation from large collections of vehicle-based trajectories. I am also passionate about mining and analyzing human activity patterns from location-based social media data. 
 
-For additional information, check out my [Curriculum Vitae](http://mengyue-yuan.github.io/files/Curriculum-Vitae_Mengyue-Yuan.pdf).
+For additional information, please check out my [Curriculum Vitae](http://mengyue-yuan.github.io/files/Curriculum-Vitae_Mengyue-Yuan.pdf).
 
 Feel free to contact me anytime at [mengyueyuan@whu.edu.cn](mailto:mengyueyuan@whu.edu.cn).
 
