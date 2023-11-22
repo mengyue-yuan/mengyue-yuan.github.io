@@ -11,8 +11,8 @@ redirect_from:
 I am currently an M.S. student in the Department of Geography Information Engineering, School of Remote Sensing and Information Engineering at Wuhan University, supervised by [Prof. Peng Yue](http://geos.whu.edu.cn/peng.html). My research interest includes but is not limited to
 
 - Geospatial data mining
-- Transportation geography
 - Social sensing
+- Transportation geography
 - Public health
 
 My current work is concentrated on trajectory analysis and lane-level road network generation from large collections of vehicle-based trajectories. I am also passionate about mining and analyzing human activity patterns from location-based social media data. 
